@@ -1,0 +1,15 @@
+<!-- if we want to edit whole text of p we can just simply write p{.....} and if we want to select some paricular para make a class
+like here .red-text is a class and then we apply it on first para.
+<style>
+  p{
+    font-size:16px;
+  }
+  .red-text {
+    color: red;
+  }
+</style>
+
+<h2 class="red-text">CatPhotoApp</h2>
+
+<p class="red-text">Kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff.</p>
+<p> Purr jump eat the grass rip the couch scratched sunbathe, shed everywhere rip the couch sleep in the sink fluffy fur catnip scratched.</p>
