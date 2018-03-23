@@ -30,3 +30,16 @@ Now you can set Lobster as a font-family value on your h2 element.
 
 <p class="red-text">Kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff.</p>
 <p class="red-text">Purr jump eat the grass rip the couch scratched sunbathe, shed everywhere rip the couch sleep in the sink fluffy fur catnip scratched.</p>
+
+
+
+
+IF LETS SAY THERE IS A FONT WHICH IS NOT AVAILABLE IN THE SYSTEM AND YOU WANT TO LIKE IF NOT 1TEXT SWITCH TO 2TEXT THEN USE CODE....
+p{
+    font-family: 1TEXT , 2TEXT;
+    }
+    
+    like....
+     h2 {
+    font-family: Lobster, Monospace;
+  }
