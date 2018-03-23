@@ -1,0 +1,6 @@
+<img src="link of image">
+  like
+  <img src="https://bit.ly/fcc-relaxing-cat"alt="Author standing on a beach with two thumbs up. ">
+
+if in any case pic CANNOT BE LOADED then
+<img src="link of the image" alt="statement when image cannot load up">
