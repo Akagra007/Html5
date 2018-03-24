@@ -1,0 +1,11 @@
+make another class for a border
+.thick-green-border{
+    border-color:green;
+    border-width:10px;
+    border-style:solid;
+  }
+
+when you now use <img .......> in this you have to call two functions one of image size and other of border then you will use this
+<img class= "class1 class2>......>
+like
+<img class="smaller-image thick-green-border" src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back. ">
