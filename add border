@@ -3,6 +3,7 @@ make another class for a border
     border-color:green;
     border-width:10px;
     border-style:solid;
+    border-radius:10px;     <!-- for rounded corners -->
   }
 
 when you now use <img .......> in this you have to call two functions one of image size and other of border then you will use this
