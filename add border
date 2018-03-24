@@ -10,3 +10,9 @@ when you now use <img .......> in this you have to call two functions one of ima
 <img class= "class1 class2>......>
 like
 <img class="smaller-image thick-green-border" src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back. ">
+
+
+
+    make image circular
+    UE CODE
+    border-radius:50%;
