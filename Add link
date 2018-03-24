@@ -5,3 +5,8 @@ adding a link in a para jusg like wepekedia does...
         <a href='https://github.com/Akagra007/Html5/new/master'> text that contain this link </a>.......
         ..........</p>
 a here is called anchor element
+
+
+        ADD A DEAD LINK
+it mean when there is dead link means we want to create that link but for now it is not present there then it will open a balnk page
+<p>Click here for <a href="#"='http://www.freecatphotoapp.com'>cat photos</a>.</p>
